@@ -1,4 +1,4 @@
-# # 📚 Library Management System - Full Stack Implementation
+# 📚 Library Management System - Full Stack Implementation
 
 <img width="1533" height="787" alt="WhatsApp Image 2026-05-18 at 10 48 09 AM" src="https://github.com/user-attachments/assets/b04f1052-7e9b-4acd-a67b-2e0cf415b252" />
 
